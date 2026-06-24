@@ -21,23 +21,17 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
+define( 'DB_NAME', 'theagencrpwp' );
+define( 'DB_USER', 'theagencrpwp' );  // souvent identique au nom de la BDD sur OVH
+define( 'DB_PASSWORD', 'Theagency2026' );
+define( 'DB_HOST', 'theagencrpwp.mysql.db' );  // format OVH classique
 
-/** Database username */
-define( 'DB_USER', 'root' );
+// URLs de production (recommandé pendant la migration)
+define( 'WP_HOME', 'https://wp.thegency-dz.com' );
+define( 'WP_SITEURL', 'https://wp.thegency-dz.com' );
 
-/** Database password */
-define( 'DB_PASSWORD', 'root' );
-
-/** Database hostname */
-define( 'DB_HOST', 'localhost' );
-
-/** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8' );
-
-/** The database collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', '' );
-
+define( 'WP_ENVIRONMENT_TYPE', 'production' );
+define( 'WP_DEBUG', false );
 /**#@+
  * Authentication unique keys and salts.
  *
