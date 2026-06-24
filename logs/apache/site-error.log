@@ -1,0 +1,16 @@
+[Mon May 25 15:04:13.720574 2026] [fcgid:warn] [pid 22340:tid 1256] [client 127.0.0.1:49356] mod_fcgid: read timeout from pipe, referer: http://asicom.local/wp-admin/update-core.php
+[Mon May 25 15:04:13.720574 2026] [fcgid:warn] [pid 22340:tid 1256] (138)timed out: [client 127.0.0.1:49356] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://asicom.local/wp-admin/update-core.php
+[Mon May 25 15:05:00.558792 2026] [fcgid:warn] [pid 22340:tid 1256] [client 127.0.0.1:62718] mod_fcgid: read timeout from pipe, referer: http://asicom.local/wp-admin/update-core.php
+[Mon May 25 15:05:00.558792 2026] [fcgid:warn] [pid 22340:tid 1256] (138)timed out: [client 127.0.0.1:62718] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://asicom.local/wp-admin/update-core.php
+[Tue Jun 09 14:22:37.496947 2026] [fcgid:warn] [pid 18708:tid 1272] [client 127.0.0.1:52997] mod_fcgid: read timeout from pipe
+[Tue Jun 09 14:22:37.498001 2026] [core:error] [pid 18708:tid 1272] [client 127.0.0.1:52997] End of script output before headers: wp-cron.php
+[Wed Jun 10 15:44:15.942224 2026] [fcgid:warn] [pid 27108:tid 1296] [client 127.0.0.1:53447] mod_fcgid: read timeout from pipe
+[Wed Jun 10 15:44:15.944136 2026] [core:error] [pid 27108:tid 1296] [client 127.0.0.1:53447] End of script output before headers: wp-cron.php
+[Wed Jun 10 15:48:49.000249 2026] [fcgid:warn] [pid 27108:tid 1244] [client 127.0.0.1:54583] mod_fcgid: read timeout from pipe, referer: http://asicom.local/wp-admin/edit.php?post_type=elementor-hf
+[Wed Jun 10 15:48:49.000249 2026] [core:error] [pid 27108:tid 1244] [client 127.0.0.1:54583] End of script output before headers: index.php, referer: http://asicom.local/wp-admin/edit.php?post_type=elementor-hf
+[Sun Jun 14 08:50:35.521052 2026] [fcgid:warn] [pid 29196:tid 1300] [client 127.0.0.1:60272] mod_fcgid: read timeout from pipe
+[Sun Jun 14 08:50:35.523029 2026] [core:error] [pid 29196:tid 1300] [client 127.0.0.1:60272] End of script output before headers: wp-cron.php
+[Sun Jun 14 08:50:42.033727 2026] [fcgid:warn] [pid 29196:tid 1272] [client 127.0.0.1:57990] mod_fcgid: read timeout from pipe
+[Sun Jun 14 08:50:42.033727 2026] [core:error] [pid 29196:tid 1272] [client 127.0.0.1:57990] End of script output before headers: index.php
+[Sun Jun 14 09:35:30.739779 2026] [fcgid:warn] [pid 29196:tid 1272] [client 127.0.0.1:50928] mod_fcgid: read timeout from pipe, referer: http://asicom.local/wp-admin/options-reading.php
+[Sun Jun 14 09:35:30.739779 2026] [core:error] [pid 29196:tid 1272] [client 127.0.0.1:50928] End of script output before headers: index.php, referer: http://asicom.local/wp-admin/options-reading.php
