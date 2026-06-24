@@ -27,8 +27,8 @@ define( 'DB_PASSWORD', 'Theagency2026' );
 define( 'DB_HOST', 'theagencrpwp.mysql.db' );  // format OVH classique
 
 // URLs de production (recommandé pendant la migration)
-define( 'WP_HOME', 'https://wp.thegency-dz.com' );
-define( 'WP_SITEURL', 'https://wp.thegency-dz.com' );
+define( 'WP_HOME', 'https://wp.theagency-dz.com' );
+define( 'WP_SITEURL', 'https://wp.theagency-dz.com' );
 
 define( 'WP_ENVIRONMENT_TYPE', 'production' );
 define( 'WP_DEBUG', false );
